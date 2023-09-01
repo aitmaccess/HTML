@@ -1,9 +1,5 @@
 <html> 
-
-<body background="Desert.jpg"> 
-
-<center><img src="dns.gif"> 
-
+ <body background="Desert.jpg">
+   <center><img src="dns.gif"> 
 </body> 
-
 </html>
