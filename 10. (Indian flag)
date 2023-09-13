@@ -1,0 +1,29 @@
+(Main.html)
+<html>
+<frameset rows="30%,40%,30%">
+<frame src="a.html'>
+<frame src="b.html'>
+<frame src="c.html'>
+</frameset>
+</html>
+
+(a.html)
+<html>
+<body bgcolor="orange">
+</body>
+</html>
+
+(b.html)
+<html>
+<body>
+<center>
+<img src="C:\ Users\STUDENT\ Pictures\download.png" height="290" width="290"></img>
+</center>
+</body>
+</html>
+
+(c.html)
+<html>
+<body bgcolor="green">
+</body>
+</html>
